@@ -1,6 +1,6 @@
 # My Shell
 
-This program is a custom shell I developed for my Systems Programming class.
+This program is a custom shell I developed for my Systems Programming in the Unix environment class.
 
 ### Installation
 
